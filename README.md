@@ -8,6 +8,11 @@ The paper can be downloaded from:
 [The Lottery Ticket Hypothesis](https://arxiv.org/abs/1803.03635)
 
 
+## Work done so far:
+1. MNIST 300-100-10 Dense Fully connected neural network winning ticket identification
+1. Validation of the winning ticket identified for MNIST dataset
+
+
 
 
 ### Prerequisites for the code to run:
