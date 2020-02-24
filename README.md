@@ -19,4 +19,4 @@ The paper can be downloaded from:
 ### Prerequisites for the code to run:
 - Python 3.X
 - TensorFlow 2.0
-- _tensorflow_model_optimization_ package
+- [tensorflow_model_optimization](https://www.tensorflow.org/model_optimization/guide/pruning/pruning_with_keras)
