@@ -11,6 +11,7 @@ The paper can be downloaded from:
 ## Work done so far:
 1. MNIST 300-100-10 Dense Fully connected neural network winning ticket identification
 1. Validation of the winning ticket identified for MNIST dataset
+1. Convolutional-2 Convolutional Neural Network (CNN) for CIFAR10 dataset; pruning network till 0.5% of original connections remain and observe training and testing accuracies and losses
 
 
 
