@@ -8,7 +8,12 @@ The paper can be downloaded from:
 [The Lottery Ticket Hypothesis](https://arxiv.org/abs/1803.03635)
 
 
-## Work done so far:
+# Comparing Rewinding and Fine-tuning in Neural Network Pruning - using PyTorch 2.X
+
+Implementation for the paper __Comparing Rewinding and Fine-tuning in Neural Network Pruning__ by Alex Renda et al.
+
+
+## LTH Codes:
 1. MNIST dataset using 300-100-10 Dense Fully connected neural network winning ticket identification.
 1. MNIST dataset using LeNet-5 Convolutional Neural Networks.
 1. Validation of the winning ticket identified for MNIST and CIFAR-10 dataset using relevant neural networks.
@@ -22,4 +27,5 @@ The paper can be downloaded from:
 - Python 3.X
 - numpy 1.17 and/or above
 - TensorFlow 2.0
+- PyTorch 2.X
 - [tensorflow_model_optimization](https://www.tensorflow.org/model_optimization/guide/pruning/pruning_with_keras) (not focused on)
